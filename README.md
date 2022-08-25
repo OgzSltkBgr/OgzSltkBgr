@@ -4,3 +4,4 @@
 <p align="center">
   <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
+<img src="https://readme-typing-svg.herokuapp.com/?
