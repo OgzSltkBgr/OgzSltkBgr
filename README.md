@@ -3,6 +3,6 @@
   ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
  <p align="center">
   <a href="[https://github.com/search?q=extension%3Amd+%22readme+typing+svg+herokuapp%22&type=Code](https://github.com/OgzSltkBgr)" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a> 
+   
     
 
