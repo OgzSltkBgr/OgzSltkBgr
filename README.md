@@ -3,6 +3,6 @@
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
-## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/)) 
+## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/)) <!--[![GitHub][(https://i.stack.imgur.com/tskMh.png) (https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/)-->
 - ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
 - ✍️ I like collaboration and communication to produce quality products as a team.
