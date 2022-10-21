@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=C4F77D&background=2C162F00&width=537&height=60&lines=Hello+There..+;I'm+QA+Oguz+Saltuk+Bugra+TOKLUCU)](https://git.io/typing-svg) 
 
 <div align="center">
-  <img src="(https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47lekwsdjxuqzqp8m7hvixmjebvw6aq2eoj03153kj&rid=giphy.gif&ct=g)" width="600" height="200"/>
+  <img src="https://giphy.com/gifs/tech-system-alliance-YYW0hHizzIOrlhimPG" width="600" height="200"/>
 </div>
 
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/) <!--[![GitHub][(https://i.stack.imgur.com/tskMh.png) (https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/)-->
