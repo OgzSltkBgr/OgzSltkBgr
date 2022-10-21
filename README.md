@@ -35,3 +35,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OgzSltkBgr&show_icons=true&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OgzSltkBgr&layout=compact)
+
+![Profile views](https://gpvc.arturio.dev/OgzSltkBgr)
