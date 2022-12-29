@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=C4F77D&background=2C162F00&width=537&height=60&lines=Hello+There..+;I'm+QA+Oguz+Saltuk+Bugra+TOKLUCU)](https://git.io/typing-svg) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OgzSltkBgr&label=Profile%20views&color=0e75b6&style=flat" alt="OgzSltkBgr" /> </p>
-<p align="left"> ![Profile views](https://gpvc.arturio.dev/OgzSltkBgr) </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OgzSltkBgr" alt="OgzSltkBgr" /></a> </p>
 
