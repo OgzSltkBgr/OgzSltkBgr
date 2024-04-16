@@ -6,7 +6,7 @@
 - ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
 - ✍️ I like collaboration and communication to produce quality products as a team. 
 
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OgzSltkBgr&layout=compact)
 
 
 
