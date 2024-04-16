@@ -1,4 +1,4 @@
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+O%C4%9Fuz+Saltuk+Bu%C4%9Fra+TOKLUCU;I'm+Software+Test+Engineer+and+Candidate+Software+Engineer)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+O%C4%9Fuz+Saltuk+Bu%C4%9Fra+TOKLUCU;I'm+Software+Test+Engineer+and;+Candidate+Software+Engineer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OgzSltkBgr&label=Profile%20views&color=0e75b6&style=flat" alt="OgzSltkBgr" /> </p>
 
