@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OgzSltkBgr&label=Profile%20views&color=0e75b6&style=flat" alt="OgzSltkBgr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OgzSltkBgr" alt="OgzSltkBgr" /></a> </p>
+
 
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/) <!--[![GitHub][(https://i.stack.imgur.com/tskMh.png) (https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/)-->
 - ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
