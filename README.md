@@ -8,7 +8,7 @@
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OgzSltkBgr&layout=compact)
+
 
 
 
