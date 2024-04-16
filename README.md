@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OgzSltkBgr&label=Profile%20views&color=0e75b6&style=flat" alt="OgzSltkBgr" /> </p>
 
-
-
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/) <!--[![GitHub][(https://i.stack.imgur.com/tskMh.png) (https://www.linkedin.com/in/o%C4%9Fuz-saltuk-bu%C4%9Fra-toklucu/)-->
 - ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
 - ✍️ I like collaboration and communication to produce quality products as a team. 
@@ -15,4 +13,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OgzSltkBgr&show_icons=true&count_private=true)
 
 
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+
