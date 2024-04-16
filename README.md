@@ -10,7 +10,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OgzSltkBgr&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OgzSltkBgr&show_icons=true&count_private=true)
+
 
 
 
